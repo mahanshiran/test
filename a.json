@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "never have i ever",
+    "appId": "1",
+    "message": "this is the message",
+    "showAds": false,
+    "showUI": false,
+    "showMessage": false,
+    "requestRating": false,
+    "other": ""
+  }
+]
